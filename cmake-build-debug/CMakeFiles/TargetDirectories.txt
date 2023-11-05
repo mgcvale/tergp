@@ -1,0 +1,3 @@
+/home/mgcv/CLionProjects/tergp/cmake-build-debug/CMakeFiles/tergp.dir
+/home/mgcv/CLionProjects/tergp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mgcv/CLionProjects/tergp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
