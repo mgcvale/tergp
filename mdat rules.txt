@@ -1,0 +1,7 @@
+mdat file info:
+
+1st int pair: map size;
+2nd int pair: map default screen;
+3rd int pair: player default spawnpoint;
+4th int pair: minimum threshold for updating screen (sUpdatePos)
+1st string: map name (still not implemented in the proc_list file)
