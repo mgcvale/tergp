@@ -28,8 +28,7 @@ int main(int argc, char *argv[]){
     key = getch();
     do{
         clear();
-        addstr("last move: ");
-        sprintf(str, "%i", player1.lastMove); addstr(str); addch('\n');
+        //addstr("last move: "); sprintf(str, "%i", player1.lastMove); addstr(str); addch('\n');
         print_map_curses(map1);
         key=getch();
         coll = move_player(key, &map1, &player1);
